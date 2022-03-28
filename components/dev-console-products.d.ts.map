@@ -1,0 +1,1 @@
+{"version":3,"file":"dev-console-products.d.ts","sourceRoot":"","sources":["../src/components/dev-console-products.ts"],"names":[],"mappings":"AAAA;;;;GAIG;AAEF,OAAO,EAAC,UAAU,EAAO,MAAM,KAAK,CAAC;AAGrC;;;;GAIG;AACH,qBACa,kBAAmB,SAAQ,UAAU;IACrC,MAAM;IAkBf,OAAO,CAAC,eAAe;CAW1B;AAED,OAAO,CAAC,MAAM,CAAC;IACZ,UAAU,qBAAqB;QAC7B,sBAAsB,EAAE,kBAAkB,CAAC;KAC5C;CACF"}
